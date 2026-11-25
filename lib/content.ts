@@ -13,6 +13,7 @@ export type Project = {
   coverScreens?: {image: string; alt: string}[];
   caseUrl?: string;
   preview?: string;
+  coverVideo?: string;
   markdown: string;
 };
 export type Asset = { width: number; height: number; path: string; displayWidth?: number; trimLeft?: number; trimRight?: number; shadowFootprints?: {center: number; width: number}[] };

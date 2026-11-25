@@ -5,6 +5,7 @@ caseUrl: "https://app.notion.com/p/853c40b3b7d1821284d6016e42797a79"
 preview: 'Запустил новую механику геймификации в «Супермаркетах». Вырастили GMV и Retention. Подробнее — в кейсе [«Супермаркеты: геймификация»](https://app.notion.com/p/853c40b3b7d1821284d6016e42797a79).'
 description: "Интегрировал задания и награды в Супермаркеты через Призоград. Получили статистически значимый рост GMV, положительный эффект на количество покупок и динамику retention. Цифры под NDA."
 cover: gamification-cover-composition
+coverVideo: /videos/gamification-interface.mp4
 coverAlt: "Задания и подарки в Супермаркетах Т-Банка"
 order: 1
 published: true
